@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # Jair Oliveira
 <sub>*Electrical Engineer and Data Science enthusiastic*</sub>
 
-Ao logo dos últimos anos desenvolvi minhas competências na área de engenharia elétrica. Trabalhei na gestão de equipes multidisciplinares, na qual suportava a área de engenharia de manutenção elétrica com aplicações de técnicas de manutenção preventivas, preditivas com foco em confiabilidade. Depois de trabalhar nesta área desenvolvi pensamento crítico e habilidades que me ajudaram na resolução de problemas.
+Ao longo dos últimos anos desenvolvi minhas competências na área de engenharia elétrica. Trabalhei na gestão de equipes multidisciplinares, na qual suportava a área de engenharia de manutenção elétrica com aplicações de técnicas de manutenção preventivas, preditivas com foco em confiabilidade. Depois de trabalhar nesta área desenvolvi pensamento crítico e habilidades que me ajudaram na resolução de problemas.
 
 Hoje dedico-me com entusiasmo ao estudo e aprendizado de Data Science.
 
