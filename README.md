@@ -25,7 +25,7 @@ Ao longo dos últimos anos desenvolvi minhas competências na área de engenhari
 
 Hoje dedico-me com entusiasmo ao estudo e aprendizado de Data Science.
 
-Minha formação inclui a Gradução em Engenharia Elétrica e Esp. em Engenharia de Manutenção Industrial e atualmente estudo pós-graduação em Data Science & Business Analytics.
+Minha formação inclui a Gradução em Engenharia Elétrica, Esp. em Engenharia de Manutenção Industrial, pós-graduação em Data Science & Business Analytics. E, atualmente estudo a formação Cientista de Dados da Data Science Academy.
 
 
 **Links:**
